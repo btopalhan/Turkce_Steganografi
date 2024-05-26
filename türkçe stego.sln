@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "türkçe stego", "türkçe stego.vbproj", "{EE3D814E-77E7-4473-AC3A-2A3FC632B991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3D814E-77E7-4473-AC3A-2A3FC632B991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3D814E-77E7-4473-AC3A-2A3FC632B991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3D814E-77E7-4473-AC3A-2A3FC632B991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3D814E-77E7-4473-AC3A-2A3FC632B991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA65BE8E-4562-40C6-9627-9674E8748622}
+	EndGlobalSection
+EndGlobal
